@@ -1,0 +1,28 @@
+#main {
+    margin: 100px;
+    background-color: rgb(224, 224, 224);
+}
+
+#title {
+    font-size: very large;
+}
+
+#img-div {
+    max-width: 100%;
+}
+
+#image {
+    width: 50%;
+    max-width: 100%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#tribute-info {
+    padding: 160px;
+}
